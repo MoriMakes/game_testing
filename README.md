@@ -1,2 +1,3 @@
 # game_testing
-Testing game
+
+This is the project where we count down to the final game release date.
